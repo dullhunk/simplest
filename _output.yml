@@ -1,0 +1,8 @@
+# HTML
+bookdown::bs4_book: default
+
+# PDF
+bookdown::pdf_book: default
+
+# EPUB
+bookdown::epub_book: default
