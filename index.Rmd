@@ -6,12 +6,8 @@ documentclass: book
 biblio-style: apalike
 link-citations: yes
 description: "bla"
-url: 'https\://www.cdyf.me/'
-# added via R4DS
 knit: "bookdown::render_book"
-#always-allow-html: yes
 always_allow_html: true
-# output: word_document
 ---
 
 # hello world 
