@@ -1,0 +1,5 @@
+\contentsline {chapter}{SO, WHAT SCHOOL DID YOU GO TO?}{5}{chapter*.2}%
+\contentsline {section}{Beware of the heavy speeding juggernaut!}{6}{section*.3}%
+\contentsline {section}{Stairway to Heaven or Highway to Hell?}{7}{section*.4}%
+\contentsline {section}{Join us tackling inequality in the UK}{8}{section*.5}%
+\contentsline {section}{References}{9}{section*.6}%

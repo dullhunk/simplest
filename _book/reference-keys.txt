@@ -1,2 +1,2 @@
-fig:r-fig
-hello-world
+fig:rabbit-fig
+fig:rock-vid
