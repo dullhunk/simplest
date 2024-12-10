@@ -1,3 +1,4 @@
+fig:badge-fig
 fig:rabbit-fig
 fig:ninetytree-fig
 fig:rock-vid
